@@ -41,7 +41,7 @@ The notebook is designed to guide you through the process of:
 5. Upload your own human activity images using the interactive widget and observe the model's predictions.
 
 
-#### The notebook is a part of the final project done for Celebal Summer Internship 2023 - by Satadru Bhowmik (CSI ID:  CT-CSI23/DS0492)
+### The notebook is a part of the final project done for Celebal Summer Internship 2023 - by Satadru Bhowmik (CSI ID:  CT-CSI23/DS0492)
 
 ---
 
