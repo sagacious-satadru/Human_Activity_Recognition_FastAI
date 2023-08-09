@@ -40,9 +40,8 @@ The notebook is designed to guide you through the process of:
 4. Follow the notebook cells sequentially, executing them one by one to understand and replicate the process.
 5. Upload your own human activity images using the interactive widget and observe the model's predictions.
 
-## Acknowledgments
 
-The notebook is inspired by the FastAI course and utilizes the power of PyTorch and FastAI libraries for efficient deep learning model development and deployment.
+The notebook is a part of the final project done for Celebal Summer Internship 2023 - by Satadru Bhowmik.
 
 ## License
 
