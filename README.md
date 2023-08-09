@@ -14,7 +14,7 @@ The notebook is designed to guide you through the process of:
 
 ## Prerequisites
 
-- Python (>= 3.6)
+- Python (>= 3.9)
 - Jupyter Notebook or Jupyter Lab
 - FastAI library
 - PyTorch library
