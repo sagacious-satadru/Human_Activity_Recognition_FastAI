@@ -43,10 +43,6 @@ The notebook is designed to guide you through the process of:
 
 The notebook is a part of the final project done for Celebal Summer Internship 2023 - by Satadru Bhowmik.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Note:** This readme has been written to provide a general overview. Please refer to the actual notebook for detailed code explanations, step-by-step instructions, and code execution.
