@@ -1,6 +1,6 @@
 # Human Activity Recognition using Deep Learning
 
-This repository contains a Jupyter Notebook that demonstrates the creation of a deep learning model for human activity recognition. The model is built using the PyTorch and FastAI libraries and is capable of classifying various types of human activities based on input images.
+This repository contains a Jupyter Notebook that demonstrates the creation of a deep learning model for human activity recognition. The model is built on top of Resnet18 using the PyTorch and FastAI libraries and is capable of classifying various types of human activities based on input images.
 
 ## Notebook Overview
 
