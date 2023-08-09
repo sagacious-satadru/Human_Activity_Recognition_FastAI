@@ -40,9 +40,16 @@ The notebook is designed to guide you through the process of:
 4. Follow the notebook cells sequentially, executing them one by one to understand and replicate the process.
 5. Upload your own human activity images using the interactive widget and observe the model's predictions.
 
-
 ### The notebook is a part of the final project done for Celebal Summer Internship 2023 - by Satadru Bhowmik (CSI ID:  CT-CSI23/DS0492)
 
 ---
 
 **Note:** This readme has been written to provide a general overview. Please refer to the actual notebook for detailed code explanations, step-by-step instructions, and code execution.
+
+---
+
+### Related Django API Project:
+
+For an implementation of this model in a Django API, check out the following repository: [HAR Django API](https://github.com/sagacious-satadru/HAR_Django_API)
+
+---
